@@ -12,7 +12,6 @@
         android:layout_height="match_parent"
         app:show_buffering="when_playing"
         app:resize_mode="fit"
-        app:use_controller="true"
-        app:controller_layout_id="@layout/custom_controls"/>
+        app:use_controller="true"/>
 
 </FrameLayout>
